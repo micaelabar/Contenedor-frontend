@@ -85,7 +85,7 @@ app.listen(PORT, () => {
 });
 ````
 ### Evidencia:
-<imag!![3](https://github.com/user-attachments/assets/b500798e-6a28-4e48-8a06-1badbe3ae033)
+<imag!![3 01](https://github.com/user-attachments/assets/6f54219f-e910-4382-994a-7af8923df8c3)
 
 ### Paso 4: Agregar script al package.json
 ```
